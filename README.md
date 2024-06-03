@@ -21,7 +21,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/vaibhav-ganesh-deshpande-40233b258/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vaibhav-ganesh-deshpande-40233b258/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/vaibhav-deshpande" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="vaibhav-deshpande" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/22552100/vaibhav-deshpande" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="vaibhav-deshpande" height="30" width="40" /></a>
 <a href="https://kaggle.com/vaibhavgdeshpande" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="vaibhavgdeshpande" height="30" width="40" /></a>
 <a href="https://instagram.com/honestly_vaibhav1012" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="honestly_vaibhav1012" height="30" width="40" /></a>
 <a href="https://medium.com/@deshpande.vaibhav1012" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@deshpande.vaibhav1012" height="30" width="40" /></a>
