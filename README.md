@@ -6,13 +6,16 @@
 
 - Hi, I'm **currently a third-year Computer Science Engineering Student**
 
-- 🌱 I’m currently learning **Flutter,Java**
+-  I’m currently learning **Flutter,Java**
 
-- 📝 I write articles on [https://medium.com/@deshpande.vaibhav1012](https://medium.com/@deshpande.vaibhav1012)
+-  I write articles on [https://medium.com/@deshpande.vaibhav1012](https://medium.com/@deshpande.vaibhav1012)
 
-- 📫 How to reach me **deshpande.vaibhav1012@gmail.com**
+-  How to reach me **deshpande.vaibhav1012@gmail.com**
 
-- ⚡ Fun fact **Memes are the source of my energy!**
+- You can also visit my portfolio website [https://deshpandevaibhav10.wixsite.com/my-site-1](https://deshpandevaibhav10.wixsite.com/my-site-1)
+
+
+-  Fun fact **Memes are the source of my energy!**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
