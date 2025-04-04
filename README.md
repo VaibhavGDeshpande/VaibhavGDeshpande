@@ -54,5 +54,5 @@
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavgdeshpande&layout=compact&theme=radical&hide_border=false" />
   <br/>
-  <img src="https://github-readme-streak-stats.demolab.com/?user=vaibhavgdeshpande&theme=radical&hide_border=false" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhavgdeshpande&theme=radical&hide_border=false"/>
 </p>
