@@ -8,7 +8,7 @@
 
 -  I’m currently learning **Flutter,Java**
 
--  I write articles on [https://medium.com/@deshpande.vaibhav1012](https://medium.com/@deshpande.vaibhav1012)
+-  My articles on [https://medium.com/@deshpande.vaibhav1012](https://medium.com/@deshpande.vaibhav1012)
 
 -  How to reach me **deshpande.vaibhav1012@gmail.com**
 
