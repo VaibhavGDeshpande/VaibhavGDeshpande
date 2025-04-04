@@ -1,79 +1,58 @@
-<h1 align="center">Hey there 👋, I'm Vaibhav Ganesh Deshpande</h1>
-<h3 align="center">💻 Tech Enthusiast | ☕ Code Addict | ⚙️ Future Engineer</h3>
+<h1 align="center">Hi 👋, I'm Vaibhav Ganesh Deshpande</h1>
+<h3 align="center">A Tech Enthusiast & Tech Geek</h3>
 
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif" />
-
-- 🎓 I'm a **3rd-year Computer Science Engineering Student**
-- 🧠 Currently learning **Java** and diving deep into **Full Stack Development**
-- 📝 I write technical articles on [Medium](https://medium.com/@deshpande.vaibhav1012)
-- 📬 Reach me at: **deshpande.vaibhav1012@gmail.com**
-- 🌐 Visit my [Portfolio Website](https://deshpandevaibhav10.wixsite.com/my-site-1)
-- 🤓 Fun Fact: **Memes = my fuel 🔋😂**
+<div align="center">
+  <img src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif" width="400" alt="coding-gif"/>
+</div>
 
 ---
 
-### 🔗 Connect With Me  
+### 💻 About Me
+
+- 🎓 I'm currently a **third-year Computer Science Engineering student**
+- 🔭 I’m currently learning and building with **MERN Stack**
+- 📝 I write on [**Medium**](https://medium.com/@deshpande.vaibhav1012)
+- 🌐 Check out my [**Portfolio Website**](https://deshpandevaibhav10.wixsite.com/my-site-1)
+- 📬 Reach me at **deshpande.vaibhav1012@gmail.com**
+- 😄 Fun fact: **Memes are the source of my energy!**
+
+---
+
+### 🤝 Connect with Me
+
 <p align="left">
   <a href="https://linkedin.com/in/vaibhav-ganesh-deshpande-40233b258/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://stackoverflow.com/users/22552100/vaibhav-deshpande" target="_blank">
-    <img src="https://img.shields.io/badge/StackOverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
-  </a>
-  <a href="https://kaggle.com/vaibhavgdeshpande" target="_blank">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://instagram.com/honestly_vaibhav1012" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
   <a href="https://medium.com/@deshpande.vaibhav1012" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" />
-  </a>
-  <a href="https://www.hackerrank.com/deshpande_vaibh2" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
-  </a>
-  <a href="https://www.leetcode.com/vaibhavgd1012/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
   </a>
 </p>
 
 ---
 
-### ⚙️ Languages and Tools  
+### 🛠️ Languages & Tools
+
 <p align="left">
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
-  </a>
-  <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
-  </a>
-  <a href="https://react.dev/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>
-  </a>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </p>
 
 ---
 
-### 📊 GitHub Stats  
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vaibhavgdeshpande&show_icons=true&locale=en&layout=compact&theme=radical" alt="top-langs" />
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vaibhavgdeshpande&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=true" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavgdeshpande&layout=compact&theme=radical&hide_border=false" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhavgdeshpande&theme=radical&hide_border=false"/>
 </p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vaibhavgdeshpande&show_icons=true&locale=en&theme=radical" alt="stats" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhavgdeshpande&theme=radical" alt="streak" /></p>
